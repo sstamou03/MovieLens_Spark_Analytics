@@ -102,9 +102,3 @@ Useful for:
 - **Dataset:** MovieLens Latest (Full Version)
 
 ---
-
-## How to Run
-
-### Build
-```bash
-sbt package
